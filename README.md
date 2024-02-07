@@ -3,9 +3,8 @@
 
 | Проект                      |  Описание                           | Библиотеки  |
 |:----------------------------|:-----------------------------------:|------------:|  
-|[Цена автомобиля в Kaggle](/)
+|[Цена автомобиля в Kaggle](https://github.com/ltsipunov/w1_car_price)|Соревнование по предсказанию цены автомобиля на наборе данных Kaggle ||
 
-|[Предсказание цены автомобиля](/19_car_price)| Предсказание цены автомобиля с использованием градиентного бустинга | numpy <br> pandas <br>sklearn<br>matplotlib<br>lightgbm 
-|[Предсказание температуры звёзд](/23_temperature_of_stars) | Предсказание температуры звёзд с использованием нейронных сетей |numpy
-<br> pandas <br> matplotlib <br> torch 
-|[] 
+|[Предсказание цены автомобиля](https://github.com/ltsipunov/24_car_accidents/19_gradient)| Предсказание цены автомобиля с использованием градиентного бустинга | numpy <br> pandas <br>sklearn<br>matplotlib<br>lightgbm |
+|[Предсказание температуры звёзд](https://github.com/ltsipunov/24_temperature_of_stars) | Предсказание температуры звёзд с использованием нейронных сетей |numpy<br> pandas <br> matplotlib <br> torch |
+|[Оценка риска ДТП](https://github.com/ltsipunov/24_car_accidents) |Предварительная оценка системы предсказания аварий для каршеринга | <br> numpy<br> pandas<br>postgresql<br>sklearn<br>lightgbm<br>catboost<br>torch<br>matplotlib<br>shap  |
