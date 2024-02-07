@@ -16,3 +16,6 @@
 [submodule "30_temperature_of_steel"]
 	path = 30_temperature_of_steel
 	url = https://github.com/ltsipunov/30_steel
+[submodule "30_temperature_of"]
+	path = 30_temperature_of_steel
+	url = https://github.com/ltsipunov/30_steel
