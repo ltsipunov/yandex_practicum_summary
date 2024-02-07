@@ -28,3 +28,6 @@
 [submodule "24_car_accidents"]
 	path = 24_car_accidents
 	url = https://github.com/ltsipunov/24_car_accidents
+[submodule "25_taxi_orders_by_hour"]
+	path = 25_taxi_orders_by_hour
+	url = https://github.com/ltsipunov/25_time_series
