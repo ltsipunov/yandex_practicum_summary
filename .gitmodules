@@ -1,0 +1,3 @@
+[submodule "19_gradient"]
+	path = 19_car_price/19_gradient
+	url = https://github.com/ltsipunov/19_gradient
