@@ -1,3 +1,6 @@
 [submodule "19_gradient"]
 	path = 19_car_price/19_gradient
 	url = https://github.com/ltsipunov/19_gradient
+[submodule "23_temperature_of_stars"]
+	path = 23_temperature_of_stars
+	url = https://github.com/ltsipunov/23_stars
