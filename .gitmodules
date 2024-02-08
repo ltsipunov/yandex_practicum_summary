@@ -31,3 +31,6 @@
 [submodule "25_taxi_orders_by_hour"]
 	path = 25_taxi_orders_by_hour
 	url = https://github.com/ltsipunov/25_time_series
+[submodule "16_house_price"]
+	path = 16_house_price
+	url = https://github.com/ltsipunov/16_spark
