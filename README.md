@@ -4,7 +4,7 @@
 
 | Проект                      |  Описание                           | Библиотеки  |
 |:----------------------------|:-----------------------------------:|------------:|  
-| [Цена автомобиля в Kaggle](https://github.com/ltsipunov/w1_car_price) | Соревнование по предсказанию цены автомобиля на наборе данных Kaggle |  numpy <br> pandas <br>sklearn<br>matplotlib |
+| [Цена автомобиля в Kaggle](kaggle_carprices) | Соревнование по предсказанию цены автомобиля на наборе данных Kaggle |  numpy <br> pandas <br>sklearn<br>matplotlib |
 | [Определение уровня английского в фильме](https://github.com/ltsipunov/w2_cefr_level) | Определение уровня CEFR английского языка по файлу субтитров |  nltk <br> pandas <br>sklearn<br>matplotlib |
 | [Стоимость домов в Калифорнии](https://github.com/ltsipunov/16_spark) | Моделирование стоимости домов в  с помощью spark | numpy <br> pandas <br>pyspark<br>matplotlib |
 | [Предсказание цены автомобиля](https://github.com/ltsipunov/19_gradient) | Предсказание цены автомобиля с использованием градиентного бустинга | numpy <br> pandas <br>sklearn<br>matplotlib<br>lightgbm |
